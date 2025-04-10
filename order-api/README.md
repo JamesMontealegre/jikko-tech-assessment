@@ -1,7 +1,5 @@
 # Order API
 
----
-
 API RESTful para gestionar productos y calcular pedidos. Incluye lógica de descuentos, cargos de envío por estrato (Colombia), documentación Swagger, pruebas unitarias y uso de SQLite como base de datos embebida.
 
 ### Características
